@@ -1,0 +1,13 @@
+import React from 'react'
+import ReactDOM from 'react-dom'
+
+
+const name = "Om Namah Shivay";
+const para="This texit is inside paragraph";
+const num=3;
+const JSX=<div>
+  <h1>{name}</h1>
+  <p>{para}</p>
+  <h3>{num}</h3>
+  </div>;
+ReactDOM.render(JSX,document.getElementById('root'));
