@@ -1,6 +1,6 @@
 {
   "name": "fcc-learn-npm-package-json",
-  "author": "foobar",
+  "author": "CHANDRAKANT VITHU AROSKAR",
   "dependencies": {
     "express": "^4.14.0"
   },
@@ -16,6 +16,3 @@
     "url": "https://idontknow/todo.git"
   }
 }
-23
-
-
