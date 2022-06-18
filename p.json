@@ -1,6 +1,6 @@
 {
   "name": "fcc-learn-npm-package-json",
-  "author": "CHANDRAKANT VITHU AROSKAR",
+  "author": "Jane Doe",
   "dependencies": {
     "express": "^4.14.0"
   },
